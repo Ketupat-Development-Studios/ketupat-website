@@ -18,6 +18,7 @@ html, button, input, select, textarea,
 #ketupat{
     height: 16vw;
     min-height: 100px;
+    margin-top:15px;
 }
 
 .ketupat-bg{
@@ -27,4 +28,5 @@ html, button, input, select, textarea,
 
 img.person{
     width:100%;
+    max-width:200px;
 }
