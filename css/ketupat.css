@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
+
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+    font-family: 'Open Sans', sans-serif;
+    font-weight:400;
+}
+
+.thin{
+    font-weight:300;
+}
+
+.center{
+    text-align:center;
+    margin:auto;
+}
+
+#ketupat{
+    height: 16vw;
+    min-height: 100px;
+}
+
+.ketupat-bg{
+    background: url("../img/ketupat-pattern2.jpg")  repeat;
+    background-size: 712px;
+}
+
+img.person{
+    width:100%;
+}
