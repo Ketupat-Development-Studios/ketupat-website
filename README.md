@@ -1,4 +1,5 @@
-#Ketupat Development Studios
+KETUPAT DEVELOPMENT STUDIOS
+===========================
 
 ![ketupat-logo](http://i.imgur.com/8ztIJ1G.png)
 
