@@ -1,7 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
 
-html, button, input, select, textarea,
-.pure-g [class *= "pure-u"] {
+html, button, input, select, textarea, div {
     font-family: 'Open Sans', sans-serif;
     font-weight:400;
 }
@@ -19,6 +18,8 @@ html, button, input, select, textarea,
     height: 16vw;
     min-height: 100px;
     margin-top:15px;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .ketupat-bg{
@@ -27,6 +28,12 @@ html, button, input, select, textarea,
 }
 
 img.person{
-    width:100%;
-    max-width:200px;
+    width:200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
+
+div.container{
+    margin-bottom:50px;
 }
